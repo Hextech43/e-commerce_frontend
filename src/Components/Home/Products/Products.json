@@ -1,0 +1,23 @@
+[
+  {
+    "_id": 1,
+    "image": "/assets/pro1.png",
+    "title": "Pro 1",
+    "description": "latest headset with 26hrs battery life",
+    "price": 1
+  },
+  {
+    "_id": 2,
+    "image": "/assets/pro2.png",
+    "title": "Pro 2",
+    "description": "Wireless.",
+    "price": 1
+  },
+  {
+    "-id": 3,
+    "image": "/assets/pro3.png",
+    "title": "Pro 3",
+    "description": "Bluetooth plus 4 hrs full battery charge",
+    "price": 1
+  }
+]
